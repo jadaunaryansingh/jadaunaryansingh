@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 👋 Hi, I’m Aryan Singh Jadaun  
 Engineer | AI Builder | Startup Enthusiast | Rider 🏍️
 
