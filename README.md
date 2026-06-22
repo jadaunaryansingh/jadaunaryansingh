@@ -42,13 +42,92 @@ I break systems, rebuild them smarter, and automate the boring parts. My core fo
 
 <table>
 <tr><th>Project</th><th>Description</th></tr>
-<tr><td>📱 <b>DevMate</b></td><td>All-in-one Linux control panel built with Flask and Streamlit — SSH command execution, voice calls & SMS, WhatsApp automation, LinkedIn posting, remote file operations, face swap, file drawer, Google search integration, and more. Docker-based modular architecture coming soon.</td></tr>
-<tr><td>🌐 <b>BuildCraft</b> <i>(WIP)</i></td><td>A drag-and-drop frontend builder that live-generates HTML, TailwindCSS, and JavaScript. No setup, no limits — just build.</td></tr>
-<tr><td>⚖️ <b>Legally</b> <i>(WIP)</i></td><td>An AI-powered legal assistant to help users understand charges, reduce penalties, and connect with real lawyers. Built for clarity, not panic.</td></tr>
-<tr><td>🍱 <b>Dabba.com</b> <i>(WIP)</i></td><td>A smart tiffin delivery platform designed for college campuses and office spaces. Fast, reliable, and always on time.</td></tr>
-<tr><td>🚖 <b>Cab-I-Net</b> <i>(Active)</i></td><td>An AI-driven platform intelligently matching daily commuters to reduce travel costs, traffic congestion, and environmental impact.</td></tr>
-</table>
 
+<tr>
+<td>📱 <b>DevMate</b></td>
+<td>
+All-in-one Linux control panel built with Flask and Streamlit featuring SSH command execution, voice calls & SMS, WhatsApp automation, LinkedIn posting, remote file operations, face swap, file drawer, Google search integration, email automation, Docker management, and system administration utilities.
+</td>
+</tr>
+
+<tr>
+<td>🏥 <b>MediBot</b></td>
+<td>
+AI-powered hospital assistant designed for healthcare organizations, enabling appointment booking, prescription management, patient support, hospital information retrieval, and intelligent medical query handling using LLMs and web scraping technologies.
+</td>
+</tr>
+
+<tr>
+<td>⚖️ <b>Legally</b> <i>(WIP)</i></td>
+<td>
+An AI-powered legal assistant that helps users understand legal charges, estimate penalties, explore legal options, generate legal documents, and connect with professional lawyers through an intelligent conversational interface.
+</td>
+</tr>
+
+<tr>
+<td>🚖 <b>Cab-I-Net</b> <i>(Active)</i></td>
+<td>
+AI-driven ride-sharing and commuter matching platform that intelligently connects daily travelers to reduce transportation costs, traffic congestion, fuel consumption, and environmental impact through optimized route planning.
+</td>
+</tr>
+
+<tr>
+<td>🚀 <b>BuildCraft</b> <i>(WIP)</i></td>
+<td>
+Drag-and-drop website builder enabling users to create modern responsive websites visually without coding. Features component-based design, live preview, template management, and code export capabilities.
+</td>
+</tr>
+
+<tr>
+<td>🔄 <b>AutoDeploy Pro</b></td>
+<td>
+Enterprise-grade CI/CD pipeline solution built on Jenkins, Docker, GitHub Actions, and Red Hat Enterprise Linux, enabling automated testing, containerization, deployment, and infrastructure automation.
+</td>
+</tr>
+
+<tr>
+<td>🧠 <b>AI Quiz Generator</b></td>
+<td>
+Generates personalized quizzes using Google Gemini and Perplexity APIs. Features dynamic question creation, difficulty adjustment, answer evaluation, performance tracking, and cloud-based storage.
+</td>
+</tr>
+
+<tr>
+<td>😊 <b>Sentiment Analysis Platform</b></td>
+<td>
+AI-powered text sentiment analysis application utilizing LLMs to classify emotions, opinions, and customer feedback with real-time analytics dashboards and detailed reporting capabilities.
+</td>
+</tr>
+
+<tr>
+<td>✈️ <b>Travel Itinerary Planner</b></td>
+<td>
+Smart travel planning assistant that creates personalized itineraries, destination recommendations, budget estimations, activity scheduling, and travel guides using AI-powered recommendation engines.
+</td>
+</tr>
+
+<tr>
+<td>👕 <b>Clothing Recommendation System</b></td>
+<td>
+Machine learning-based recommendation engine that suggests clothing items based on user preferences, trends, weather conditions, and personalized fashion insights.
+</td>
+</tr>
+
+<tr>
+<td>🖱️ <b>Virtual Pointing Device</b></td>
+<td>
+Computer vision project using OpenCV and hand gesture recognition to control cursor movements and system interactions without a physical mouse.
+</td>
+</tr>
+
+<tr>
+<td>🔐 <b>Password Strength Analyzer</b></td>
+<td>
+Security-focused application that evaluates password complexity, detects vulnerabilities, estimates cracking resistance, and provides recommendations for stronger authentication practices.
+</td>
+</tr>
+
+</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:7F00FF&height=2" width="100%"/>
 
 ### 🧠 Skills & Tech Knowledge
