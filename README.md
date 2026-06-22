@@ -39,93 +39,44 @@ I break systems, rebuild them smarter, and automate the boring parts. My core fo
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=2" width="100%"/>
 
 ### 🛠️ Projects
-
 <table>
 <tr><th>Project</th><th>Description</th></tr>
 
-<tr>
-<td>📱 <b>DevMate</b></td>
-<td>
-All-in-one Linux control panel built with Flask and Streamlit featuring SSH command execution, voice calls & SMS, WhatsApp automation, LinkedIn posting, remote file operations, face swap, file drawer, Google search integration, email automation, Docker management, and system administration utilities.
-</td>
-</tr>
+<tr><td>🚖 <b>CAB-I-NET</b></td><td>AI-powered cab aggregation platform comparing Uber, Ola, and Rapido fares in real time with intelligent route analysis, ride recommendations, payment integration, and smart travel optimization.</td></tr>
 
-<tr>
-<td>🏥 <b>MediBot</b></td>
-<td>
-AI-powered hospital assistant designed for healthcare organizations, enabling appointment booking, prescription management, patient support, hospital information retrieval, and intelligent medical query handling using LLMs and web scraping technologies.
-</td>
-</tr>
+<tr><td>🗺️ <b>Travel Itinerary Planner</b></td><td>Generates personalized multi-city travel itineraries, destination recommendations, and route optimization plans based on user preferences, budget, and trip duration using AI-powered planning.</td></tr>
 
-<tr>
-<td>⚖️ <b>Legally</b> <i>(WIP)</i></td>
-<td>
-An AI-powered legal assistant that helps users understand legal charges, estimate penalties, explore legal options, generate legal documents, and connect with professional lawyers through an intelligent conversational interface.
-</td>
-</tr>
+<tr><td>🎙️ <b>Voice Authentication System</b></td><td>AI-powered biometric authentication platform utilizing voiceprints, speech pattern analysis, and deep learning models for secure user verification and identity management.</td></tr>
 
-<tr>
-<td>🚖 <b>Cab-I-Net</b> <i>(Active)</i></td>
-<td>
-AI-driven ride-sharing and commuter matching platform that intelligently connects daily travelers to reduce transportation costs, traffic congestion, fuel consumption, and environmental impact through optimized route planning.
-</td>
-</tr>
+<tr><td>🔓 <b>AI Jailbreak Detection</b></td><td>Cybersecurity-focused application demonstrating prompt injection attacks, LLM vulnerabilities, jailbreak techniques, and advanced AI safety mitigation strategies.</td></tr>
 
-<tr>
-<td>🚀 <b>BuildCraft</b> <i>(WIP)</i></td>
-<td>
-Drag-and-drop website builder enabling users to create modern responsive websites visually without coding. Features component-based design, live preview, template management, and code export capabilities.
-</td>
-</tr>
+<tr><td>📈 <b>Enterprise Growth Predictor</b></td><td>Machine learning platform forecasting business growth, revenue trends, operational risks, and future performance through predictive analytics and historical data modeling.</td></tr>
 
-<tr>
-<td>🔄 <b>AutoDeploy Pro</b></td>
-<td>
-Enterprise-grade CI/CD pipeline solution built on Jenkins, Docker, GitHub Actions, and Red Hat Enterprise Linux, enabling automated testing, containerization, deployment, and infrastructure automation.
-</td>
-</tr>
+<tr><td>💸 <b>PrimeTrade AI</b></td><td>Financial intelligence platform providing market trend analysis, predictive trading insights, portfolio monitoring, and real-time analytics using machine learning models.</td></tr>
 
-<tr>
-<td>🧠 <b>AI Quiz Generator</b></td>
-<td>
-Generates personalized quizzes using Google Gemini and Perplexity APIs. Features dynamic question creation, difficulty adjustment, answer evaluation, performance tracking, and cloud-based storage.
-</td>
-</tr>
+<tr><td>👕 <b>Clothing Recommendation System</b></td><td>AI-powered fashion recommendation engine generating personalized outfit suggestions, trend analysis, and occasion-based clothing recommendations using Gemini AI.</td></tr>
 
-<tr>
-<td>😊 <b>Sentiment Analysis Platform</b></td>
-<td>
-AI-powered text sentiment analysis application utilizing LLMs to classify emotions, opinions, and customer feedback with real-time analytics dashboards and detailed reporting capabilities.
-</td>
-</tr>
+<tr><td>🔬 <b>Cancer Chemosensitisation Research</b></td><td>Research-driven scientific computing project analyzing drug interactions, biological mechanisms, and compound effectiveness to improve cancer treatment outcomes.</td></tr>
 
-<tr>
-<td>✈️ <b>Travel Itinerary Planner</b></td>
-<td>
-Smart travel planning assistant that creates personalized itineraries, destination recommendations, budget estimations, activity scheduling, and travel guides using AI-powered recommendation engines.
-</td>
-</tr>
+<tr><td>🧠 <b>Brain Stroke Detection System</b></td><td>Healthcare AI platform leveraging machine learning algorithms to identify stroke risk factors, analyze clinical datasets, and generate early warning predictions.</td></tr>
 
-<tr>
-<td>👕 <b>Clothing Recommendation System</b></td>
-<td>
-Machine learning-based recommendation engine that suggests clothing items based on user preferences, trends, weather conditions, and personalized fashion insights.
-</td>
-</tr>
+<tr><td>🏥 <b>CareSync HMS</b></td><td>Comprehensive hospital management system streamlining patient registration, doctor scheduling, appointments, billing workflows, and healthcare operations.</td></tr>
 
-<tr>
-<td>🖱️ <b>Virtual Pointing Device</b></td>
-<td>
-Computer vision project using OpenCV and hand gesture recognition to control cursor movements and system interactions without a physical mouse.
-</td>
-</tr>
+<tr><td>📰 <b>Newspaper Portfolio</b></td><td>Interactive vintage newspaper-style portfolio featuring 3D page-flip effects, cinematic storytelling, realistic typography, and immersive frontend engineering.</td></tr>
 
-<tr>
-<td>🔐 <b>Password Strength Analyzer</b></td>
-<td>
-Security-focused application that evaluates password complexity, detects vulnerabilities, estimates cracking resistance, and provides recommendations for stronger authentication practices.
-</td>
-</tr>
+<tr><td>🤖 <b>AI Agent Architecture</b></td><td>Agentic AI ecosystem implementing autonomous workflows, tool-calling agents, memory management, orchestration pipelines, and Retrieval-Augmented Generation systems.</td></tr>
+
+<tr><td>⚡ <b>High-Speed RAG System</b></td><td>Retrieval-Augmented Generation platform utilizing vector databases, semantic search, document understanding, and Groq-powered low-latency inference.</td></tr>
+
+<tr><td>📝 <b>AI Quiz Maker</b></td><td>Dynamic assessment generation platform creating intelligent quizzes, automated evaluation systems, and analytics-driven performance insights.</td></tr>
+
+<tr><td>⚙️ <b>Zorvyn Backend Infrastructure</b></td><td>Scalable backend architecture built with FastAPI, PostgreSQL, Docker, JWT authentication, cloud deployment, and secure API orchestration.</td></tr>
+
+<tr><td>⚖️ <b>Legally</b></td><td>Flutter-based legal assistance platform simplifying legal procedures, document workflows, attorney matching, and legal guidance through an intuitive mobile experience.</td></tr>
+
+<tr><td>💬 <b>Sentiment Analysis AI</b></td><td>NLP-powered sentiment classification system analyzing customer reviews, social media content, and textual feedback to extract emotional insights.</td></tr>
+
+<tr><td>💼 <b>Full Stack AI Templates</b></td><td>Collection of production-ready AI application templates featuring RAG pipelines, automation workflows, predictive analytics, cloud-native infrastructure, and secure backend systems.</td></tr>
 
 </table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:7F00FF&height=2" width="100%"/>
