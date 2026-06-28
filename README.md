@@ -31,7 +31,7 @@ I break systems, rebuild them smarter, and automate the boring parts. My core fo
 <table>
 <tr><td width="60">🤖</td><td><b>Agentic AI Intern — LinuxWorld Informatics</b><br/>Worked on real-world Agentic AI systems, designing autonomous agents that think, adapt, and execute tasks using modern AI frameworks. This wasn't tutorial AI — it was production-grade learning.</td></tr>
 <tr><td width="60">🚖</td><td><b>Co-Founder — Cab-I-Net</b><br/>Building an AI-powered smart urban mobility platform focused on intelligent cab pooling, route optimization, and cost-efficient daily commuting — aimed at reducing traffic and carbon footprint.</td></tr>
-<tr><td width="60">🧠</td><td><b>Corporate Relations Secretary & Head — IEEE Computer Students Council, GLA University</b><br/>Led corporate outreach, industry partnerships, sponsorships, and professional collaborations while managing inter-team coordination at scale.</td></tr>
+<tr><td width="60">🧠</td><td><b>Corporate Relations Secretary & Head — IEEE Students Council, GLA University</b><br/>Led corporate outreach, industry partnerships, sponsorships, and professional collaborations while managing inter-team coordination at scale.</td></tr>
 <tr><td width="60">🏫</td><td><b>College Ambassador — Smarted Edu Pvt. Ltd.</b><br/>Represented the organization at campus level, driving student engagement, outreach, and awareness initiatives.</td></tr>
 <tr><td width="60">🚀</td><td><b>Ex-Member — E-Cell, GLA University</b><br/>Immersed in startup culture for 5 months — pitching ideas, collaborating with innovators, and learning the realities of entrepreneurship.</td></tr>
 </table>
