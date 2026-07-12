@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Aryan%20Singh%20Jadaun&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineer%20|%20AI%20Builder%20|%20Startup%20Enthusiast%20|%20Rider%20🏍️&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Aryan%20Singh%20Jadaun&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%A4%96%20GenAI%20Developer%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%A7%A0%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://www.linkedin.com/in/aryan-singh-jadaun">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=900&height=50&lines=Building+Agentic+AI+systems+that+think%2C+adapt%2C+execute;Co-Founder+%40+Cab-I-Net;LangGraph+%7C+Multi-Agent+Architectures+%7C+Automation;Build+once%2C+scale+forever." />
