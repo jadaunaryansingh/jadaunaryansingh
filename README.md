@@ -33,7 +33,7 @@ I break systems, rebuild them smarter, and automate the boring parts. My core fo
 <tr><td width="60">🚖</td><td><b>Co-Founder — Cab-I-Net</b><br/>Building an AI-powered smart urban mobility platform focused on intelligent cab pooling, route optimization, and cost-efficient daily commuting — aimed at reducing traffic and carbon footprint.</td></tr>
 <tr><td width="60">🧠</td><td><b>Corporate Relations Secretary & Head — IEEE Students Council, GLA University</b><br/>Led corporate outreach, industry partnerships, sponsorships, and professional collaborations while managing inter-team coordination at scale.</td></tr>
 <tr><td width="60">🏫</td><td><b>College Ambassador — Smarted Edu Pvt. Ltd.</b><br/>Represented the organization at campus level, driving student engagement, outreach, and awareness initiatives.</td></tr>
-<tr><td width="60">🚀</td><td><b>Ex-Member — E-Cell, GLA University</b><br/>Immersed in startup culture for 5 months — pitching ideas, collaborating with innovators, and learning the realities of entrepreneurship.</td></tr>
+<tr><td width="60">🚀</td><td><b>Ex-Member(Corporate Relations) — E-Cell, GLA University</b><br/>Immersed in startup culture for 5 months — pitching ideas, collaborating with innovators, and learning the realities of entrepreneurship.</td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=2" width="100%"/>
