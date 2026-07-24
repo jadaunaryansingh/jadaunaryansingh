@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=280&section=header&text=Aryan%20Singh%20Jadaun&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20Engineer%20%7C%20🚖%20Startup%20CTO%20%7C%20⚡%20Builder%20of%20Real%20Things&descSize=18&descAlignY=62&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=300&section=header&text=Aryan%20Singh%20Jadaun&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%2019-Year-Old%20Building%20AI%20Systems%20Like%20It's%20His%20Job%20—%20Because%20It%20Is&descSize=17&descAlignY=58&descColor=a78bfa"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-singh-jadaun">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=🤖+Agentic+AI+%7C+🧠+LLMs+%7C+⚡+RAG+%7C+🔗+LangGraph;🚖+Co-founded+a+startup+at+19+—+still+in+college;🔥+30%2B+shipped+projects+across+AI+%26+backend;💡+I+build+things+that+run+in+production%2C+not+demos" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=🔥+I+don't+build+demos.+I+ship+production.;🚖+Co-founded+a+startup+at+19.+Still+in+college.;🤖+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+LangGraph+—+all+day.;⚡+30%2B+projects.+Zero+fluff.+All+signal." />
   </a>
 </div>
 
@@ -20,51 +20,54 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jadaunaryansingh&style=for-the-badge&color=7c3aed&label=👀+PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=jadaunaryansingh&style=for-the-badge&color=7c3aed&label=👀+YOU'RE+VISITOR+NUMBER"/>
+</div>
+
+<div align="center">
+  <sub>⭐ If any of this impresses you, the projects below will impress you more. Keep scrolling.</sub>
 </div>
 
 ---
 
-## ⚡ Quick Snapshot
+## ⚡ The Pitch
 
 <div align="center">
+
+**I turn AI hype into working code.** While most people are still writing "hello world" prompts,
+I'm building multi-agent systems, RAG pipelines, and a startup — simultaneously, at 19.
 
 🎓 **B.Tech AI/ML** @ GLA University, Mathura *(Batch 2028)*
-🏙️ From **Agra** · Schooled at **St. Peter's College**
+🏙️ From **Agra** · Alum of **St. Peter's College**
 🤖 **Agentic AI Intern** @ LinuxWorld Informatics
-🚖 **Co-Founder & CTO** @ Cab-I-Net *(smart mobility startup)*
-📡 **Corporate Relations Head** @ IEEE Students Council
-🔥 **19 years old** · Building like it's a full-time job · It is.
+🚖 **Co-Founder & CTO** @ Cab-I-Net *(smart mobility startup — my baby)*
+📡 **Corporate Relations Head** @ IEEE Students Council *(200+ members, my call)*
 
 </div>
 
 ---
 
-## 🏆 By The Numbers
+## 🏆 Cold, Hard Numbers
 
 <div align="center">
 
-| 🚀 30+ Projects | 🏢 2 Real Roles | 🎖️ 2 Microsoft Certs | 👥 200+ Members Led | 🌆 1 Startup Founded |
+| 🚀 30+ | 🏢 2 | 🎖️ 2 | 👥 200+ | 🌆 1 |
 |:---:|:---:|:---:|:---:|:---:|
-| Shipped & deployed | Industry experience | AZ-900 · AI-900 | IEEE Council Head | CTO @ 19 |
+| **Projects shipped** | **Real industry roles** | **Microsoft certs** | **People led** | **Startup, self-founded** |
 
 </div>
 
 ---
 
-## 🔥 Flagship Projects
+## 🔥 The Flagship Work — This Is Where It Gets Good
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 [AgentForge](https://github.com/jadaunaryansingh/AgentForge)
-> 🏷️ **Enterprise Agentic AI Framework**
+> **Enterprise-grade agentic AI framework.**
 
-✅ Multi-agent coordination
-✅ Autonomous task planning
-✅ Tool orchestration & LLM memory
-✅ Built for production, not demos
+A multi-agent orchestration engine built for the real world — autonomous planning, tool coordination, persistent memory. Not a toy. Not a tutorial follow-along. Production architecture.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
@@ -75,12 +78,9 @@
 <td width="50%">
 
 ### 🚖 [Cab-I-Net](https://github.com/jadaunaryansingh/Cabi_Latest_With_API)
-> 🏷️ **My Startup — Co-Founder & CTO**
+> **My startup. My stack. My call.**
 
-✅ Real-time Uber / Ola / Rapido comparison
-✅ AI route optimization & surge prediction
-✅ Integrated payments
-✅ I own the entire tech stack
+Real-time ride comparison across Uber, Ola, and Rapido, with AI-driven route optimization and surge prediction baked in. I'm not an engineer *on* this company — I *am* the tech.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -93,12 +93,9 @@
 <td width="50%">
 
 ### ⚡ [High-Speed RAG System](https://github.com/jadaunaryansingh/RAGmodelpoweredbyGrok)
-> 🏷️ **Grok-Powered Knowledge Retrieval**
+> **Grok-powered knowledge retrieval, built for speed.**
 
-✅ Ultra-low-latency RAG pipeline
-✅ Vector database + semantic search
-✅ Grok inference at production scale
-✅ Real retrieval, not toy examples
+Ultra-low-latency RAG pipeline with real vector search at production scale. No toy datasets, no cherry-picked demos — this thing actually retrieves.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
@@ -109,12 +106,9 @@
 <td width="50%">
 
 ### ⚖️ [Krugerx — Legal AI](https://github.com/jadaunaryansingh/Krugerx)
-> 🏷️ **Full-Stack Legal Intelligence Platform**
+> **A full-stack legal intelligence platform.**
 
-✅ BNS law integration
-✅ AI document processing
-✅ Attorney matching engine
-✅ Case management system
+BNS law integration, AI-powered document processing, attorney matching, and case management — a serious answer to a seriously outdated industry.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -127,12 +121,9 @@
 <td width="50%">
 
 ### 🧠 [Brain Stroke Detection](https://github.com/jadaunaryansingh/LifeLine)
-> 🏷️ **Healthcare AI · Clinical Risk Platform**
+> **AI that could save an actual life.**
 
-✅ Stroke risk stratification
-✅ Early warning indicators
-✅ Patient monitoring system
-✅ Real healthcare impact
+A clinical risk stratification platform for early stroke warning signs. This isn't a Kaggle score-flex — it's healthcare AI with real stakes.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -143,12 +134,9 @@
 <td width="50%">
 
 ### 🎙️ [Voice Auth System](https://github.com/jadaunaryansingh/VoiceAuthentication-using-CNN-DL)
-> 🏷️ **CNN Biometric Authentication**
+> **Biometric security, powered by CNNs.**
 
-✅ Voiceprint-based speaker verification
-✅ CNN deep learning architecture
-✅ Real accuracy benchmarks
-✅ Secure biometric identification
+Voiceprint-based speaker verification with a deep learning architecture built for real accuracy, not just a passing benchmark.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -161,20 +149,20 @@
 
 <div align="center">
   <a href="https://github.com/jadaunaryansingh?tab=repositories">
-    <img src="https://img.shields.io/badge/🗂️ See All 30%2B Projects →-7c3aed?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🗂️ There's 30%2B More Where That Came From →-7c3aed?style=for-the-badge"/>
   </a>
 </div>
 
 ---
 
-## 🛠️ My Stack
+## 🛠️ The Arsenal
 
 <div align="center">
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,typescript,dart,bash,js,html,css&theme=dark&perline=7"/>
 
-### 🤖 AI · ML · Agents
+### 🤖 AI · ML · Agents — Where I Actually Live
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
 &nbsp;
@@ -198,7 +186,7 @@
 
 ---
 
-## 🎖️ Certifications
+## 🎖️ Receipts
 
 <div align="center">
 
@@ -211,7 +199,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 The Proof Is in the Commits
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=jadaunaryansingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true&include_all_commits=true"/>
@@ -236,17 +224,17 @@
 
 ---
 
-## 💼 Open To
+## 💼 What I'm Hunting For
 
 <div align="center">
 
-| 🎯 | What | What I Bring |
+| 🎯 | What | What You Get |
 |:---:|:---|:---|
-| 🤖 | **AI / Backend Internships** | Production-grade agentic systems from day one |
-| 🚀 | **Startup Collabs** | Built & run a real startup — I know how to move fast |
+| 🤖 | **AI / Backend Internships** | Production-grade agentic systems from day one — no ramp-up needed |
+| 🚀 | **Startup Collabs** | I've founded, built, and run a real company. I move fast and don't break things |
 | 🔬 | **Research Partnerships** | ML · Healthcare AI · Agentic architectures |
-| 💻 | **Freelance Projects** | Full-stack AI products, end to end |
-| 🏢 | **Full-Time AI Engineering** | Ready to ship immediately, not after long onboarding |
+| 💻 | **Freelance Projects** | Full-stack AI products, delivered end to end |
+| 🏢 | **Full-Time AI Engineering** | Ready to ship on week one, not month three |
 
 </div>
 
@@ -254,7 +242,9 @@
 
 <div align="center">
 
-### 📬 Reach Me
+## 📬 Let's Talk
+
+**If you've read this far, you already know I'm worth the email.**
 
 [![Email](https://img.shields.io/badge/📧_aryansinghjadaun@gmail.com-7c3aed?style=for-the-badge)](mailto:aryansinghjadaun@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aryan-singh-jadaun)
@@ -262,7 +252,7 @@
 
 <br/>
 
-*💡 "Build once. Scale forever." &nbsp;·&nbsp; 🛵 "Code is art. Automation is freedom."*
+*💡 "Build once. Scale forever." &nbsp;·&nbsp; ⚡ "Code is art. Automation is freedom."*
 
 </div>
 
