@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=300&section=header&text=Aryan%20Singh%20Jadaun&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%2019-Year-Old%20Building%20AI%20Systems%20Like%20It's%20His%20Job%20—%20Because%20It%20Is&descSize=17&descAlignY=58&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=300&section=header&text=Aryan%20Singh%20Jadaun&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%2019-Year-Old%20Building%20AI%20Systems%20Like%20It's%20His%20Job%20—%20Because%20It%20Is&descSize=17&descAlignY=58&descColor=a78bfa"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-singh-jadaun">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=🔥+I+don't+build+demos.+I+ship+production.;🚖+Co-founded+a+startup+at+19.+Still+in+college.;🤖+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+LangGraph+—+all+day.;⚡+30%2B+projects.+Zero+fluff.+All+signal." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=🔥+I+don't+build+demos.+I+ship+production.;🚖+Co-founded+a+startup+at+19.+Still+in+college.;🤖+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+LangGraph+—+all+day.;⚡+30%2B+projects.+Zero+fluff.+All+signal.;💻+Currently+compiling+ambition+into+code..." />
   </a>
 </div>
 
@@ -24,7 +24,13 @@
 </div>
 
 <div align="center">
-  <sub>⭐ If any of this impresses you, the projects below will impress you more. Keep scrolling.</sub>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0221&height=3&section=header"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=⭐+Everything+below+is+real.+Nothing's+a+mockup.;Scroll.+You+won't+regret+it." />
 </div>
 
 ---
@@ -44,7 +50,9 @@ I'm building multi-agent systems, RAG pipelines, and a startup — simultaneousl
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0540,100:0d0221&height=80&section=header"/>
+</div>
 
 ## 🏆 Cold, Hard Numbers
 
@@ -56,9 +64,17 @@ I'm building multi-agent systems, RAG pipelines, and a startup — simultaneousl
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0540,100:0d0221&height=80&section=header"/>
+</div>
 
 ## 🔥 The Flagship Work — This Is Where It Gets Good
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Every+repo+below+is+live.+Click+one." />
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -153,7 +169,9 @@ Voiceprint-based speaker verification with a deep learning architecture built fo
   </a>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0540,100:0d0221&height=80&section=header"/>
+</div>
 
 ## 🛠️ The Arsenal
 
@@ -184,7 +202,9 @@ Voiceprint-based speaker verification with a deep learning architecture built fo
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0540,100:0d0221&height=80&section=header"/>
+</div>
 
 ## 🎖️ Receipts
 
@@ -197,9 +217,17 @@ Voiceprint-based speaker verification with a deep learning architecture built fo
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0540,100:0d0221&height=80&section=header"/>
+</div>
 
 ## 📊 The Proof Is in the Commits
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=The+green+squares+don't+lie." />
+</div>
+
+<br/>
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=jadaunaryansingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true&include_all_commits=true"/>
@@ -219,12 +247,22 @@ Voiceprint-based speaker verification with a deep learning architecture built fo
 </div>
 
 <div align="center">
+  <sub>👇 this one actually crawls across the graph in real time 👇</sub>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/jadaunaryansingh/jadaunaryansingh/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0540,100:0d0221&height=80&section=header"/>
+</div>
 
 ## 💼 What I'm Hunting For
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=If+it's+ambitious%2C+I'm+interested." />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -244,7 +282,7 @@ Voiceprint-based speaker verification with a deep learning architecture built fo
 
 ## 📬 Let's Talk
 
-**If you've read this far, you already know I'm worth the email.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=If+you've+read+this+far%2C+you+already+know+I'm+worth+the+email." />
 
 [![Email](https://img.shields.io/badge/📧_aryansinghjadaun@gmail.com-7c3aed?style=for-the-badge)](mailto:aryansinghjadaun@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aryan-singh-jadaun)
@@ -256,4 +294,4 @@ Voiceprint-based speaker verification with a deep learning architecture built fo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=140&section=footer&animation=twinkling"/>
