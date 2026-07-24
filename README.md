@@ -1,211 +1,211 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=280&section=header&text=Aryan%20Singh%20Jadaun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Co-Founder%20%26%20CTO%20%7C%20Builder%20of%20Real%20Things&descSize=17&descAlignY=60&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0540,70:0a1045,100:0d0221&height=280&section=header&text=Aryan%20Singh%20Jadaun&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20Engineer%20%7C%20🚖%20Startup%20CTO%20%7C%20⚡%20Builder%20of%20Real%20Things&descSize=18&descAlignY=62&descColor=a78bfa"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-singh-jadaun">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=45&lines=🤖+Building+agentic+AI+systems+that+run+in+production;🚖+Co-founded+a+mobility+startup+at+19+—+still+in+college;⚡+30%2B+shipped+projects+across+AI%2C+backend+%26+mobile;🔥+I+don't+wait+to+graduate+before+building+real+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=🤖+Agentic+AI+%7C+🧠+LLMs+%7C+⚡+RAG+%7C+🔗+LangGraph;🚖+Co-founded+a+startup+at+19+—+still+in+college;🔥+30%2B+shipped+projects+across+AI+%26+backend;💡+I+build+things+that+run+in+production%2C+not+demos" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:aryansinghjadaun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-singh-jadaun">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolioaryanjadaun.engineer/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jadaunaryansingh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:aryansinghjadaun@gmail.com"><img src="https://img.shields.io/badge/📧 Hire Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-singh-jadaun"><img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolioaryanjadaun.engineer/"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/jadaunaryansingh"><img src="https://img.shields.io/badge/🐙 GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jadaunaryansingh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=jadaunaryansingh&style=for-the-badge&color=7c3aed&label=👀+PROFILE+VIEWS"/>
 </div>
 
 ---
 
-## 🧬 About Me
+## ⚡ Quick Snapshot
 
-```python
-class AryanSinghJadaun:
-    def __init__(self):
-        self.name        = "Aryan Singh Jadaun"
-        self.role        = ["Agentic AI Intern @ LinuxWorld", "Co-Founder & CTO @ Cab-I-Net"]
-        self.education   = "B.Tech AI/ML — GLA University (2028)"
-        self.location    = "Agra → Mathura, India"
-        self.age         = 19
-        self.available   = True  # Open to internships & roles
+<div align="center">
 
-    def summary(self):
-        return """
-        I build AI agents, backend systems, and full-stack products
-        that run in production — not just notebooks or demos.
-        I co-founded a startup. I lead IEEE at my university.
-        I don't wait to graduate before shipping real things.
-        """
+🎓 **B.Tech AI/ML** @ GLA University, Mathura *(Batch 2028)*
+🏙️ From **Agra** · Schooled at **St. Peter's College**
+🤖 **Agentic AI Intern** @ LinuxWorld Informatics
+🚖 **Co-Founder & CTO** @ Cab-I-Net *(smart mobility startup)*
+📡 **Corporate Relations Head** @ IEEE Students Council
+🔥 **19 years old** · Building like it's a full-time job · It is.
 
-    def currently_building(self):
-        return {
-            "AgentForge":  "Enterprise multi-agent AI framework (LangGraph + TypeScript)",
-            "Cab-I-Net":   "AI-powered smart urban mobility platform (my startup)"
-        }
-```
+</div>
 
 ---
 
-## 🚀 Experience
+## 🏆 By The Numbers
 
-<table>
-  <tr>
-    <td><b>🤖 Agentic AI Intern</b></td>
-    <td>LinuxWorld Informatics</td>
-    <td>Designed production-grade autonomous agents with LangGraph & tool orchestration</td>
-  </tr>
-  <tr>
-    <td><b>🚖 Co-Founder & CTO</b></td>
-    <td>Cab-I-Net <i>(startup)</i></td>
-    <td>Built the entire AI + backend stack for a smart mobility platform. At 19.</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Corporate Relations Head</b></td>
-    <td>IEEE Students Council, GLA</td>
-    <td>Led industry partnerships & dev initiatives for 200+ members</td>
-  </tr>
-  <tr>
-    <td><b>🚀 Corporate Relations</b></td>
-    <td>E-Cell, GLA University</td>
-    <td>5 months in startup culture — pitching, biz dev, and innovation</td>
-  </tr>
-</table>
+<div align="center">
+
+| 🚀 30+ Projects | 🏢 2 Real Roles | 🎖️ 2 Microsoft Certs | 👥 200+ Members Led | 🌆 1 Startup Founded |
+|:---:|:---:|:---:|:---:|:---:|
+| Shipped & deployed | Industry experience | AZ-900 · AI-900 | IEEE Council Head | CTO @ 19 |
+
+</div>
 
 ---
 
-## 🏆 Flagship Projects
+## 🔥 Flagship Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/jadaunaryansingh/AgentForge">AgentForge</a></h3>
-      <p>Enterprise agentic AI framework with multi-agent coordination, autonomous task planning, tool orchestration & LLM memory management. Built in TypeScript + LangGraph for production environments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LLMs-6c63ff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-🟢 Active-success?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚖 <a href="https://github.com/jadaunaryansingh/Cabi_Latest_With_API">Cab-I-Net</a> <i>(My Startup)</i></h3>
-      <p>AI-powered urban mobility platform comparing Uber, Ola & Rapido fares in real-time. Includes route optimization, surge prediction & integrated payments. I own the full tech stack.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-🟢 Active-success?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ <a href="https://github.com/jadaunaryansingh/RAGmodelpoweredbyGrok">High-Speed RAG System</a></h3>
-      <p>Ultra-low-latency retrieval-augmented generation platform using vector databases, semantic search & Grok inference for production-scale knowledge retrieval.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Grok_API-ff6b35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-✅ Complete-blue?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>⚖️ <a href="https://github.com/jadaunaryansingh/Krugerx">Krugerx — Legal AI</a></h3>
-      <p>Full-stack legal platform with BNS law integration, AI document processing, attorney matching engine & intelligent case management. Flutter + FastAPI + LLMs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-🟢 Active-success?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧠 <a href="https://github.com/jadaunaryansingh/LifeLine">Brain Stroke Detection</a></h3>
-      <p>ML clinical platform for stroke risk stratification, early warning indicators & patient monitoring. Healthcare AI built with real data and real impact in mind.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-✅ Complete-blue?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎙️ <a href="https://github.com/jadaunaryansingh/VoiceAuthentication-using-CNN-DL">Voice Auth System</a></h3>
-      <p>CNN-based biometric authentication via voiceprints and speaker verification. Built with real accuracy metrics, not hand-wavy claims. OpenCV + TensorFlow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CNN-Deep_Learning-8b5cf6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-✅ Complete-blue?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🤖 [AgentForge](https://github.com/jadaunaryansingh/AgentForge)
+> 🏷️ **Enterprise Agentic AI Framework**
+
+✅ Multi-agent coordination
+✅ Autonomous task planning
+✅ Tool orchestration & LLM memory
+✅ Built for production, not demos
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=flat-square)
+![Active](https://img.shields.io/badge/🟢_ACTIVE-00AA00?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🚖 [Cab-I-Net](https://github.com/jadaunaryansingh/Cabi_Latest_With_API)
+> 🏷️ **My Startup — Co-Founder & CTO**
+
+✅ Real-time Uber / Ola / Rapido comparison
+✅ AI route optimization & surge prediction
+✅ Integrated payments
+✅ I own the entire tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Active](https://img.shields.io/badge/🟢_ACTIVE-00AA00?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [High-Speed RAG System](https://github.com/jadaunaryansingh/RAGmodelpoweredbyGrok)
+> 🏷️ **Grok-Powered Knowledge Retrieval**
+
+✅ Ultra-low-latency RAG pipeline
+✅ Vector database + semantic search
+✅ Grok inference at production scale
+✅ Real retrieval, not toy examples
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Grok](https://img.shields.io/badge/Grok_API-ff6b35?style=flat-square)
+![Done](https://img.shields.io/badge/✅_COMPLETE-0A66C2?style=flat-square)
+
+</td>
+<td width="50%">
+
+### ⚖️ [Krugerx — Legal AI](https://github.com/jadaunaryansingh/Krugerx)
+> 🏷️ **Full-Stack Legal Intelligence Platform**
+
+✅ BNS law integration
+✅ AI document processing
+✅ Attorney matching engine
+✅ Case management system
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Active](https://img.shields.io/badge/🟢_ACTIVE-00AA00?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [Brain Stroke Detection](https://github.com/jadaunaryansingh/LifeLine)
+> 🏷️ **Healthcare AI · Clinical Risk Platform**
+
+✅ Stroke risk stratification
+✅ Early warning indicators
+✅ Patient monitoring system
+✅ Real healthcare impact
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![DL](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
+![Done](https://img.shields.io/badge/✅_COMPLETE-0A66C2?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🎙️ [Voice Auth System](https://github.com/jadaunaryansingh/VoiceAuthentication-using-CNN-DL)
+> 🏷️ **CNN Biometric Authentication**
+
+✅ Voiceprint-based speaker verification
+✅ CNN deep learning architecture
+✅ Real accuracy benchmarks
+✅ Secure biometric identification
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Done](https://img.shields.io/badge/✅_COMPLETE-0A66C2?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 <div align="center">
   <a href="https://github.com/jadaunaryansingh?tab=repositories">
-    <img src="https://img.shields.io/badge/→%20See%20All%2030%2B%20Projects%20on%20GitHub-7c3aed?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🗂️ See All 30%2B Projects →-7c3aed?style=for-the-badge"/>
   </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,dart,bash,js,html,css&theme=dark"/>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,dart,bash,js,html,css&theme=dark&perline=7"/>
 
-### AI / ML / Agents
+### 🤖 AI · ML · Agents
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI_Systems-7c3aed?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-00AA00?style=for-the-badge)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-FF6F00?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/NLP_%26_Transformers-e11d48?style=for-the-badge)
+&nbsp;
+![LangGraph](https://img.shields.io/badge/🔗_LangGraph-1C3C3C?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/🤖_Agentic_AI-7c3aed?style=for-the-badge)
+![RAG](https://img.shields.io/badge/⚡_RAG_Pipelines-4169E1?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/🗄️_Vector_DBs-059669?style=for-the-badge)
+![LLM Fine-tuning](https://img.shields.io/badge/🎯_LLM_Fine--tuning-FF6F00?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/🧠_NLP_%26_Transformers-e11d48?style=for-the-badge)
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,firebase,mongodb&theme=dark"/>
+### ⚙️ Backend · Databases
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,firebase,mongodb&theme=dark&perline=6"/>
 
-### Mobile & Frontend
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&theme=dark"/>
+### 📱 Mobile · Frontend
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&theme=dark&perline=4"/>
 
-### Cloud, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github,vscode&theme=dark"/>
+### ☁️ Cloud · DevOps
+<img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github,vscode&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🎖️ Certifications
 
 <div align="center">
 
-| 🏅 Certification | Issuer | Badge |
-|:---|:---|:---|
-| **Azure Fundamentals** | Microsoft | AZ-900 |
-| **Azure AI Fundamentals** | Microsoft | AI-900 |
+|  | Certification | Issuer | Code |
+|:---:|:---|:---|:---:|
+| ☁️ | **Microsoft Azure Fundamentals** | Microsoft | `AZ-900` |
+| 🤖 | **Microsoft Azure AI Fundamentals** | Microsoft | `AI-900` |
 
 </div>
 
@@ -214,8 +214,8 @@ class AryanSinghJadaun:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jadaunaryansingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaunaryansingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd&langs_count=8"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jadaunaryansingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true&include_all_commits=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaunaryansingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -223,11 +223,11 @@ class AryanSinghJadaun:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadaunaryansingh&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jadaunaryansingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jadaunaryansingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadaunaryansingh&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=7c3aed&point=ffffff&area=true"/>
 </div>
 
 <div align="center">
@@ -240,13 +240,13 @@ class AryanSinghJadaun:
 
 <div align="center">
 
-| 🎯 Opportunity | What I bring |
-|:---|:---|
-| AI / Backend Internships | Production-ready agentic systems from day one |
-| Startup Collaborations | I've built and run a startup — I know how to move fast |
-| Research Partnerships | ML, healthcare AI, agentic architectures |
-| Freelance Projects | Full-stack AI products, end to end |
-| Full-Time AI Engineering | Ready to contribute immediately, not after onboarding |
+| 🎯 | What | What I Bring |
+|:---:|:---|:---|
+| 🤖 | **AI / Backend Internships** | Production-grade agentic systems from day one |
+| 🚀 | **Startup Collabs** | Built & run a real startup — I know how to move fast |
+| 🔬 | **Research Partnerships** | ML · Healthcare AI · Agentic architectures |
+| 💻 | **Freelance Projects** | Full-stack AI products, end to end |
+| 🏢 | **Full-Time AI Engineering** | Ready to ship immediately, not after long onboarding |
 
 </div>
 
@@ -254,15 +254,15 @@ class AryanSinghJadaun:
 
 <div align="center">
 
-### 📬 Let's Connect
+### 📬 Reach Me
 
-<a href="mailto:aryansinghjadaun@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-aryansinghjadaun%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/📧_aryansinghjadaun@gmail.com-7c3aed?style=for-the-badge)](mailto:aryansinghjadaun@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aryan-singh-jadaun)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://portfolioaryanjadaun.engineer/)
 
-<br/><br/>
+<br/>
 
-<i>💡 "Build once. Scale forever."</i>
+*💡 "Build once. Scale forever." &nbsp;·&nbsp; 🛵 "Code is art. Automation is freedom."*
 
 </div>
 
