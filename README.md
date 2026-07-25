@@ -8,7 +8,7 @@
 [BOOT] initializing aryan_singh_jadaun.model...
 [INFO]  role        : AI Engineer / Founding CTO
 [INFO]  training    : B.Tech AI/ML @ GLA University (2028)
-[INFO]  parameters  : 30+ shipped repos | 1 startup | 200+ people led
+[INFO]  parameters  : 40+ shipped repos | 1 startup | 200+ people led
 [STATUS] currently in production. not a demo. not a checkpoint.
 ```
 
